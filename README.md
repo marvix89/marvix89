@@ -58,18 +58,3 @@ I am a **Product & Senior Front-End Developer** with extensive experience in arc
   1. *Visibility of system status* | 2. *Match between system & real world* | 3. *User control & freedom*
   4. *Consistency & standards* | 5. *Error prevention* | 6. *Recognition rather than recall*
   7. *Flexibility & efficiency of use* | 8. *Aesthetic & minimalist design* | 9. *Error diagnosis & recovery* | 10. *Help & documentation*
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvix89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Marvix89's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvix89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-  <p>💬 <strong>Open to discussing complex frontend architectures, micro-frontends, UI/UX optimization, and tech leadership!</strong></p>
-</div>
