@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 
@@ -59,7 +58,7 @@ I am a **Product & Senior Front-End Developer** with extensive experience in arc
   4. *Consistency & standards* | 5. *Error prevention* | 6. *Recognition rather than recall*
   7. *Flexibility & efficiency of use* | 8. *Aesthetic & minimalist design* | 9. *Error diagnosis & recovery* | 10. *Help & documentation*
 
-### 🎨 Presentations
+### :books: Presentations
 
 - [Understanding Microfrontends and Webpack Module Federation](https://docs.google.com/presentation/d/1us9f154cnS4s0A9ERc5BQNMllc_zALN9/edit?usp=drive_link&ouid=109008358144459934399&rtpof=true&sd=true)
 - [Effective Front End Development](https://docs.google.com/presentation/d/1bplUzxYaCjSRYnEzUe21l39jt3Qs2A6O/edit?usp=drive_link&ouid=109008358144459934399&rtpof=true&sd=true)
