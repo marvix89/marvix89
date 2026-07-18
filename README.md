@@ -24,7 +24,7 @@
 I am a **Product & Senior Front-End Developer** with extensive experience in architecting robust single-page applications (SPAs), complex **Micro-Frontend ecosystems**, and user-centric interfaces. My passion lies at the intersection of **clean code architecture**, **cloud cost optimization**, and **intuitive UX/UI design**.
 
 - 🔭 **Specialization:** Modern Web Applications (`Angular`, `React`, `TypeScript`, `RxJS`) and **Monorepo Architectures** (`Nx`).
-- 🌍 **Global Technical Leadership:** Proven track record of guiding, training, and coordinating international development teams across the **USA**, **Israel**, **India**, and **Ukraine**.
+- 🌍 **Global Technical Leadership:** Proven track record of guiding, training, and coordinating international development teams across the **USA**, **Israel**, and **India**.
 - 📐 **Engineering Philosophy:** Strict adherence to **SOLID** principles, clean design patterns, and continuous performance tuning.
 - 🎨 **UX/UI Advocate:** Bringing Nielsen's 10 Usability Heuristics and strong visual hierarchy to enterprise software.
 
@@ -58,3 +58,10 @@ I am a **Product & Senior Front-End Developer** with extensive experience in arc
   1. *Visibility of system status* | 2. *Match between system & real world* | 3. *User control & freedom*
   4. *Consistency & standards* | 5. *Error prevention* | 6. *Recognition rather than recall*
   7. *Flexibility & efficiency of use* | 8. *Aesthetic & minimalist design* | 9. *Error diagnosis & recovery* | 10. *Help & documentation*
+
+### 🎨 Presentations
+
+- [Understanding Microfrontends and Webpack Module Federation](https://docs.google.com/presentation/d/1us9f154cnS4s0A9ERc5BQNMllc_zALN9/edit?usp=drive_link&ouid=109008358144459934399&rtpof=true&sd=true)
+- [Effective Front End Development](https://docs.google.com/presentation/d/1bplUzxYaCjSRYnEzUe21l39jt3Qs2A6O/edit?usp=drive_link&ouid=109008358144459934399&rtpof=true&sd=true)
+- [Animate your life](https://docs.google.com/presentation/d/15XWk0QtZDE07rZSb_oKxV0gMiFXQz81e/edit?usp=drive_link&ouid=109008358144459934399&rtpof=true&sd=true) 
+
